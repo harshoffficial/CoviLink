@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:background="#1A1F3A"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/textViewSlotInfo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:maxLines="2"
+        android:ellipsize="end" />
+
+    <Button
+        android:id="@+id/buttonBookSlot"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Book"
+        android:textColor="#1A1F3A"
+        android:background="@drawable/button_background2"
+        android:textSize="13sp"
+        android:layout_marginStart="12dp" />
+
+</LinearLayout> 

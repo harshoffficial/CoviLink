@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "43635545206",
+    "project_id": "covilink-72665",
+    "storage_bucket": "covilink-72665.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43635545206:android:cd1ce882f8f65e922efb57",
+        "android_client_info": {
+          "package_name": "com.harsh.covilink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXIvQ9t6gyNeLosF1B5JElD8dcgNTxgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        },
+        "firebase_auth": {
+          "api_key": "AIzaSyBtXIvQ9t6gyNeLosF1B5JElD8dcgNTxgA"
+        },
+        "firebase_database": {
+          "database_url": "https://covilink-72665-default-rtdb.firebaseio.com"
+        },
+        "firebase_storage": {
+          "bucket": "covilink-72665.firebasestorage.app"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

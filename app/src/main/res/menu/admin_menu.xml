@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#0E1328">
+    
+    <item
+        android:id="@+id/nav_admin_dashboard"
+        android:title="Admin Dashboard"
+        android:icon="@drawable/home" />
+        
+    <item
+        android:id="@+id/nav_manage_slots"
+        android:title="Manage Vaccination Slots"
+        android:icon="@drawable/profile" />
+        
+    <item
+        android:id="@+id/nav_user_records"
+        android:title="User Records"
+        android:icon="@drawable/profile" />
+        
+    <item
+        android:id="@+id/nav_appointment_management"
+        android:title="Appointment Management"
+        android:icon="@drawable/profile" />
+        
+    <item
+        android:id="@+id/nav_admin_profile"
+        android:title="Admin Profile"
+        android:icon="@drawable/profile" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"
+        app:showAsAction="never" />
+
+</menu> 

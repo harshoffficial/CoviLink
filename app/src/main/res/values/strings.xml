@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoviLink</string>
+
+    <string name="welcome_text"><font color='#D08D28'><b>Hey:)</b></font>\n\nThe World Health Organization (WHO) and expert health authorities around the world are urging
+people to get vaccinated as the best solution to end the Covid-19 pandemic.\nBook your slot for vaccination........</string>
+
+
+</resources>

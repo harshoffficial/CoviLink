@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="350dp"
+    android:layout_height="200dp"
+    android:layout_gravity="center"
+    android:layout_marginStart="30dp"
+    android:layout_marginEnd="30dp"
+    android:background="@drawable/dialog_rounded_bg"
+    android:orientation="vertical"
+    android:padding="0dp"
+    android:alpha="0.9">
+
+    <!-- Custom Action Bar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@drawable/dialog_rounded_bg2"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:contentDescription="login logo"
+            android:src="@drawable/login_sticker" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="SELECT LOGIN TYPE"
+            android:textColor="#F2F0ED"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- Body: Buttons in a horizontal row -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <Button
+            android:id="@+id/userLoginButton"
+            android:layout_width="150dp"
+            android:layout_height="54dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/button_background"
+            android:text="User Login"
+            android:textColor="#F2F0ED"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/adminLoginButton"
+            android:layout_width="150dp"
+            android:layout_height="54dp"
+            android:background="@drawable/button_background"
+            android:text="Admin Login"
+            android:textColor="#F2F0ED"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout> 

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="#1A1F3A"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/textViewAdminAppointmentUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+    <TextView
+        android:id="@+id/textViewAdminAppointmentSlot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#B8B8B8"
+        android:textSize="13sp"
+        android:layout_marginTop="2dp" />
+
+    <TextView
+        android:id="@+id/textViewAdminAppointmentStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#7C6BFF"
+        android:textSize="13sp"
+        android:layout_marginTop="2dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp">
+
+        <Button
+            android:id="@+id/buttonMarkCompleted"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Completed"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/button_background"
+            android:textSize="13sp"
+            android:layout_marginEnd="8dp" />
+
+        <Button
+            android:id="@+id/buttonMarkMissed"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Missed"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/button_background"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+
+</LinearLayout> 
