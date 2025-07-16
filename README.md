@@ -77,30 +77,27 @@ Run the app on an emulator or real device.
 ```
 # 🔐 **Admin Credentials**
 
-Default Admin Login:
-Email: admin@covilink.com
-Password: admin123
-(You can change these in AdminLoginActivity.java.)
+-Default Admin Login:
+-Email: admin@covilink.com
+-Password: admin123
+-(You can change these in AdminLoginActivity.java.)
 
 ---
 
 # 📁 **Project Structure**
 
-app/src/main/java/com/harsh/covilink/    → All activities and logic
-app/src/main/res/layout/                  → UI layouts
-app/src/main/res/drawable/                → Images and icons
+-app/src/main/java/com/harsh/covilink/    → All activities and logic
+-app/src/main/res/layout/                  → UI layouts
+-app/src/main/res/drawable/                → Images and icons
 ---
 
-#🤝 **Contributing**
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
----
 
 #🙏 **Acknowledgements**
 
-Firebase
-Cloudinary
-Android Developers
-Material Design
+-Firebase
+-Cloudinary
+-Android Developers
+-Material Design
 
 
