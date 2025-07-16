@@ -90,13 +90,17 @@ app/src/main/java/com/harsh/covilink/ — All activities and logic
 app/src/main/res/layout/ — UI layouts
 app/src/main/res/drawable/ — Images and icons
 
+---
+
 
 
 #🙏 **Acknowledgements**
 
--Firebase
--Cloudinary
--Android Developers
--Material Design
+-Firebase.
+-Cloudinary.
+-Android Developers.
+-Material Design.
+
+---
 
 
