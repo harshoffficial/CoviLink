@@ -30,7 +30,7 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 
 ### 🔥 Dashboard
 
-![Dashboard](ss1.png)
+![Dashboard](drawable/ss1.png)
 
 ---
 
