@@ -28,7 +28,9 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 
 ## 🖼️ **Screenshots**
 
-> _Add screenshots of your main screens here for the best presentation!_
+### 🔥 Dashboard
+
+![Dashboard](images/dashboard.png)
 
 ---
 
