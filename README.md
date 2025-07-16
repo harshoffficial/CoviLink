@@ -37,7 +37,7 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 - **Android (Java)**
 - **Firebase Authentication**
 - **Firebase Realtime Database**
-- **Firebase Storage** (for profile images)
+- **Cloudinary** (for profile images)
 - **PDF Generation** (Android `PdfDocument`)
 - **Modern Material UI**
 
@@ -56,5 +56,47 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 
 **Clone the repository:**
 
-```bash
+```
+bash
 git clone https://github.com/yourusername/covilink.git
+Replace yourusername with your GitHub username.
+
+1.Firebase Setup:
+
+Create a Firebase project at Firebase Console.
+Enable Authentication (Email/Password).
+Enable Realtime Database (in test mode for development).
+Download google-services.json and place it in the app/ directory.
+
+2.Build and Run:
+
+Open the project in Android Studio.
+Sync Gradle files.
+Run the app on an emulator or real device.
+
+```
+## 🔐 **Admin Credentials**
+
+Default Admin Login:
+Email: admin@covilink.com
+Password: admin123
+(You can change these in AdminLoginActivity.java.)
+
+## 📁 **Project Structure**
+
+app/src/main/java/com/harsh/covilink/    → All activities and logic
+app/src/main/res/layout/                  → UI layouts
+app/src/main/res/drawable/                → Images and icons
+
+##🤝 **Contributing**
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+#🙏 **Acknowledgements**
+
+Firebase
+Cloudinary
+Android Developers
+Material Design
+
+
