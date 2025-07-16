@@ -32,9 +32,9 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 ### Sign Up & Login
 
 <p float="left">
-  <img src="images/ss3.png" width="250"/>
+  <img src="images/ss3.png"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/ss5.png" width="250"/>
+  <img src="images/ss5.png"/>
 </p>
 
 
