@@ -27,10 +27,38 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 ---
 
 ## 🖼️ **Screenshots**
+###  Splashscreen
 
-### 🔥 Dashboard
+![Splashscreen](images/ss2.png)
+
+###  Dashboard
 
 ![Dashboard](images/ss1.png)
+
+###  SignUp
+
+![SignUp](images/ss3.png)
+
+###  Login
+
+![login](images/ss5.png)
+
+###  User Dashboard
+
+![userdashboard](images/ss6.png)
+
+###  Menu
+
+![menu](images/ss8.png)
+
+###  Admin Dashboard
+
+![admindashboard](images/ss9.png)
+
+###  Certificate download
+
+![admindashboard](images/ss7.png)
+
 
 ---
 
