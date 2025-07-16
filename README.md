@@ -94,7 +94,7 @@ Run the app on an emulator or real device.
 
 
 
-#🙏 **Acknowledgements**
+# 🙏 **Acknowledgements**
 
 - Firebase
 - Cloudinary
