@@ -30,7 +30,6 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 
 
 ### Sign Up & Login
-
 <p float="left">
   <img src="images/ss3.png"/>
   &nbsp;&nbsp;&nbsp;
@@ -40,7 +39,10 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 
 
 ###  Splashscreen
-![Splashscreen](images/ss2.png)
+<p float="left">
+  <img src="images/ss2.png"/>
+</p>
+
 
  Dashboard
 ![Dashboard](images/ss1.png)
