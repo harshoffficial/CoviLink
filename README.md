@@ -31,13 +31,13 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 
 ### 
 <p float="left">
+  <img src="images/ss1.png"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="images/ss2.png"/>
   &nbsp;&nbsp;&nbsp;
   <img src="images/ss3.png"/>
   &nbsp;&nbsp;&nbsp;
   <img src="images/ss5.png"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/ss1.png"/>
   &nbsp;&nbsp;&nbsp;
   <img src="images/ss6.png"/>
   &nbsp;&nbsp;&nbsp;
