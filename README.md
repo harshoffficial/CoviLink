@@ -39,8 +39,6 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
   &nbsp;&nbsp;&nbsp;
   <img src="images/ss1.png"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/ss3.png"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="images/ss6.png"/>
   &nbsp;&nbsp;&nbsp;
   <img src="images/ss8.png"/>
