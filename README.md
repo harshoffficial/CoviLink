@@ -15,7 +15,7 @@ It also provides an admin portal for managing slots and tracking user vaccinatio
 - **My Appointments**: View and cancel your booked appointments.
 - **Vaccination Certificate**: Download a PDF certificate after completing both doses.
 
----
+
 
 ### 🛡️ **Admin Module**
 
