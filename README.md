@@ -86,10 +86,9 @@ Run the app on an emulator or real device.
 
 # 📁 **Project Structure**
 
--app/src/main/java/com/harsh/covilink/    → All activities and logic
--app/src/main/res/layout/                  → UI layouts
--app/src/main/res/drawable/                → Images and icons
----
+app/src/main/java/com/harsh/covilink/ — All activities and logic
+app/src/main/res/layout/ — UI layouts
+app/src/main/res/drawable/ — Images and icons
 
 
 
